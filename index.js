@@ -57,5 +57,5 @@ function total() {
 }
 */
 function placeOrder(cardNumber) {
-  // write your code here
+  if card 
 }
