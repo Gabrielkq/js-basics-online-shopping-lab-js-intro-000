@@ -57,5 +57,6 @@ function total() {
 }
 */
 function placeOrder(cardNumber) {
- 
+ if (cardNumber===null){ 
+   return 
 }
