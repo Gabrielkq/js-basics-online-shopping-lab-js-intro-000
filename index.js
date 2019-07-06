@@ -46,7 +46,7 @@ function total() {
 }
 
 function removeFromCart(item) {
-  Howdy, stuck again.  Don't want the answer, I want a hint.  Shopping cart removeFromCart.  
+
   for (var i = 0; i < cart.length; i++){
  
   if (cart[i].itemName==item) { 
