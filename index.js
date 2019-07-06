@@ -45,7 +45,7 @@ function total() {
   
 }
 
-function removeFromCart(item) {
+/*function removeFromCart(item) {
   for (var i = 0; i < cart.length; i++){
  
   if (cart[i].itemName==item) { 
@@ -55,7 +55,7 @@ function removeFromCart(item) {
 }
 }
 }
-
+*/
 function placeOrder(cardNumber) {
   // write your code here
 }
